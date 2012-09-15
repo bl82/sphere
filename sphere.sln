@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sphere", "sphere.vcproj", "{76485CDF-C193-4CA8-AE05-A60B9274245E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{76485CDF-C193-4CA8-AE05-A60B9274245E}.Debug.ActiveCfg = Release|Win32
+		{76485CDF-C193-4CA8-AE05-A60B9274245E}.Debug.Build.0 = Release|Win32
+		{76485CDF-C193-4CA8-AE05-A60B9274245E}.Release.ActiveCfg = Release|Win32
+		{76485CDF-C193-4CA8-AE05-A60B9274245E}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
